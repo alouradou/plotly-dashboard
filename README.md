@@ -1,10 +1,17 @@
-# Projet Blanc CentraleDigitalLab (3 days) - Team 1: 3 members
+# Projet Blanc Centrale DigitalLab
 
-## Execute project
+## Le projet
+Ce projet académique a été réalisé à l'issue des cours du Centrale DigitaleLab. Il s'agit de mettre en application les compétences acquises en traitement et en visualisation de données ainsi qu'en développement Front-End.
+
+## Résultat
+Le projet de Data Visualisation a été déployé à l'adresse suivante :
+https://digital-lab-covid.herokuapp.com/
+
+## Exécuter le projet - Execute project
 
 ### Requirements
 
-Listed in `requirements.txt` in a conda/virtualenv environement including `plotly`,`numpy`,`pandas`, etc
+Listed in `requirements.txt` in a conda/virtualenv environement including `plotly`,`numpy`,`pandas`, etc.
 
     $ pip install requirements.txt
 
@@ -12,7 +19,7 @@ Listed in `requirements.txt` in a conda/virtualenv environement including `plotl
 
     $ python app.py
 
-## Directories
+## Structure - Directories
 
 ### assets
 
